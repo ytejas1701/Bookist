@@ -1,0 +1,78 @@
+.authCard {
+    height: fit-content;
+    width:480px;
+    background-color: rgba(0, 255, 255, 0.2);
+    margin: 2rem auto;
+    border-radius: 12px;
+
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    box-sizing: border-box;
+    border: 2px solid #111;
+}
+
+.heading {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.authCard input {
+    background-color: transparent;
+    border: 1px solid #333;
+    margin: 0.5rem 0rem;
+    margin-top: 0rem;
+    padding: 0.5rem;
+    border-radius: 6px;
+}
+
+
+.authCard input:focus {
+    border-color: #111;
+    outline: none;
+}
+
+.authCard label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    color: #333;
+}
+
+.authCard button {
+    background-color: rgba(0, 255, 255, 0.2);
+    border: none;
+    width: fit-content;
+    align-self: center;
+    padding: 1rem;
+    border-radius: 6px;
+    font-size: 1rem;
+    margin-top: 1rem;
+    border: 1px solid #111;
+}
+
+.authCard button:hover {
+    cursor: pointer;
+}
+
+.textButton{
+    align-self: center;
+    margin-top: 0.8rem;
+    font-size: 0.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+}
+
+.textButton:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.tag {
+    margin-top: 0rem !important;
+    color: black !important;
+    font-weight: bold !important;
+
+}

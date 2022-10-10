@@ -1,0 +1,11 @@
+.bookList{
+    height: fit-content;
+    width: fit-content;
+
+    display: flex;
+    flex-direction: column;
+    gap:0.5rem;
+
+    border-radius: 12px;
+    margin: 2rem 0.5rem;
+}
