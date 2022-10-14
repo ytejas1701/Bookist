@@ -9,7 +9,7 @@ I developed the backend with ExpressJS, using PostgreSQL for persistence of data
 ## Gallery
 <p>
   <img src="https://user-images.githubusercontent.com/97452093/195893265-2f2942f0-9f8a-43ab-be9b-8a5fa8b026d3.png" width="500" />
-  <img src="https://user-images.githubusercontent.com/97452093/195893269-e84223d0-aceb-4890-aaf1-3deeb00d9659.jpg" width="500" />
+  <img src="./screenshots/img2.png" width="500" />
 </p>
 <p>
   <img src="https://user-images.githubusercontent.com/97452093/195893270-d24ec766-da6b-4d88-bbfa-896a79258dcf.jpg" width="500" /> 
